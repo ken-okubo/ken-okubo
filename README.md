@@ -25,7 +25,12 @@ A fully dockerized Django REST API for tracking personal and business expenses.
 Includes category management, monthly summaries, filters, fake data generation, and full documentation.  
 **Stack**: Django, DRF, PostgreSQL, Docker
 
-🛠️ More projects coming soon — inspired by real backend work in logistics, routes, and financial systems.
+### [🧾 Invoices API](https://github.com/ken-okubo/invoices-api)
+A FastAPI backend system for managing clients, routes, and invoices — including authentication with JWT.
+Built with SQLAlchemy, Alembic, and PostgreSQL, fully dockerized and documented.
+**Stack**: FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, JWT
+
+🛠️ More projects coming soon — inspired by real backend work in logistics, daily routines, and financial systems.
 
 ---
 
