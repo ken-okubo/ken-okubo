@@ -30,6 +30,7 @@ A FastAPI backend system for managing clients, routes, and invoices — includin
 Built with SQLAlchemy, Alembic, and PostgreSQL, fully dockerized and documented.
 **Stack**: FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, JWT
 
+
 🛠️ More projects coming soon — inspired by real backend work in logistics, daily routines, and financial systems.
 
 ---
