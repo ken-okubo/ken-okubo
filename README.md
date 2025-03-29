@@ -1,16 +1,14 @@
+### 👋 Hi, I'm Ken  
+I'm a backend engineer with a solid foundation in Python and Django — transitioning from a strong background in operations, logistics, and finance in high-growth startups like 99, Rappi, QuintoAndar, and Musa.
+
+Today, I build APIs and backend systems to solve the same real-world problems I used to tackle on the business side — with clean, well-structured, and scalable code.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-👋 Hi, I'm Ken  
-I'm a backend engineer with a solid foundation in Python and Django — transitioning from a strong background in operations, logistics, and finance in high-growth startups like 99, Rappi, QuintoAndar, and Musa.
-
-Today, I build APIs and backend systems to solve the same real-world problems I used to tackle on the business side — with clean, well-structured, and scalable code.
 
 ---
 
