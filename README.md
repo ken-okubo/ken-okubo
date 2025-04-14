@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Ken  
-I'm a backend engineer with a solid foundation in Python and Django — transitioning from a strong background in operations, logistics, and finance in high-growth startups like 99, Rappi, QuintoAndar, and Musa.
+I'm a backend engineer focused on building APIs and backend systems — drawing on a previous background in operations, logistics, and finance at high-growth startups like 99, Rappi, and QuintoAndar.
 
-Today, I build APIs and backend systems to solve the same real-world problems I used to tackle on the business side — with clean, well-structured, and scalable code.
+I transitioned into software engineering in 2023 and have been working with Python, Django, and FastAPI to solve the same types of business problems I used to manage — now with clean, scalable code.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
