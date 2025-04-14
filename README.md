@@ -24,17 +24,17 @@ I transitioned into software engineering in 2023 and have been working with Pyth
 
 📂 **Featured Projects**
 
-### 📊 [Finance Tracker API](https://github.com/ken-okubo/finance-tracker)  
+### [Finance Tracker API](https://github.com/ken-okubo/finance-tracker)  
 A fully dockerized Django REST API for tracking personal and business expenses.  
 Includes category management, monthly summaries, filters, fake data generation, and full documentation.  
 **Stack:** Django, DRF, PostgreSQL, Docker
 
-### 🧾 [Invoices API](https://github.com/ken-okubo/invoices-api)  
+### [Invoices API](https://github.com/ken-okubo/invoices-api)  
 A FastAPI backend for managing clients, routes, and invoices — including authentication with JWT.  
 Built with SQLAlchemy, Alembic, and PostgreSQL, fully dockerized and documented.  
 **Stack:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, JWT
 
-### 🎯 [Where Should We Eat?](https://github.com/ken-okubo/where-should-we-eat)  
+### [Where Should We Eat?](https://github.com/ken-okubo/where-should-we-eat)  
 A fun and interactive React app that helps groups decide where to eat using a roulette-style spinner.  
 Includes FastAPI backend with Redis to manage temporary sessions and user-submitted options.  
 **Stack:** React, TailwindCSS, FastAPI, Redis, Docker
