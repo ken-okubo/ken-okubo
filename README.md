@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Ken  
+### Hi, I'm Ken  
 I'm a backend engineer focused on building APIs and backend systems — drawing on a previous background in operations, logistics, and finance at high-growth startups like 99, Rappi, and QuintoAndar.
 
 I transitioned into software engineering in 2023 and have been working with Python, Django, and FastAPI to solve the same types of business problems I used to manage — now with clean, scalable code.
