@@ -12,7 +12,7 @@ I transitioned into software engineering in 2023 and have been working with Pyth
 
 ---
 
-🚀 **Tech Stack**  
+**Tech Stack**  
 **Languages:** Python, JavaScript (React, TypeScript – learning)  
 **Backend:** Django REST Framework, FastAPI, Flask, Node.js  
 **Frontend:** React, TailwindCSS, Leaflet.js  
@@ -22,7 +22,7 @@ I transitioned into software engineering in 2023 and have been working with Pyth
 
 ---
 
-📂 **Featured Projects**
+**Featured Projects**
 
 ### [Finance Tracker API](https://github.com/ken-okubo/finance-tracker)  
 A fully dockerized Django REST API for tracking personal and business expenses.  
