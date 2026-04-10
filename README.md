@@ -1,7 +1,10 @@
-### Hi, I'm Ken  
-I'm a backend engineer focused on building APIs and backend systems — drawing on a previous background in operations, logistics, and finance at high-growth startups like 99, Rappi, and QuintoAndar.
+### Hi, I'm Ken
 
-I transitioned into software engineering in 2023 and have been working with Python, Django, and FastAPI to solve the same types of business problems I used to manage — now with clean, scalable code.
+Backend engineer building real-world systems — from APIs and automation to full product integrations — across fintech, logistics, and e-commerce, with a focus on real-world operations and integrations.
+
+I transitioned into software engineering after working in operations and finance at companies like 99, Rappi, and QuintoAndar. Today I build scalable systems grounded in real business problems.
+
+Currently building internal tools for a restaurant I operate, automating its operations with custom software, and developing a print-on-demand marketplace from scratch.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -12,39 +15,56 @@ I transitioned into software engineering in 2023 and have been working with Pyth
 
 ---
 
-**Tech Stack**  
-**Languages:** Python, JavaScript (React, TypeScript – learning)  
-**Backend:** Django REST Framework, FastAPI, Flask, Node.js  
-**Frontend:** React, TailwindCSS, Leaflet.js  
-**Data:** PostgreSQL, MySQL, Athena, Metabase, SQLAlchemy, Alembic  
-**DevOps:** Docker, Git, Redis, AWS (S3, Lambda), Keycloak  
+**Featured Projects**
+
+### Labanana *(in progress)*
+Print-on-demand marketplace connecting artists to physical products.
+Dynamic product and variant system with constraints and rendering logic. Image rendering pipeline for mockups. Payment integration (Asaas, Mercado Pago), shipping (MelhorEnvio), and analytics tracking (GA4, Meta Pixel).
+**Stack:** FastAPI, React, PostgreSQL, Redis, Docker, AWS S3/CloudFront
+
+### Maiteq *(in production)*
+Reservation and table management system built for my own restaurant — and already in daily use.
+Handles booking flow, availability logic, and operational management for a real business.
+**Stack:** FastAPI, PostgreSQL, Docker
+
+### Restaurant Finance *(in progress)*
+Backend system automating financial operations of a real restaurant.
+Replaces manual spreadsheets with structured workflows for expenses, suppliers, payroll, and reporting.
+**Stack:** FastAPI, PostgreSQL, Docker
+
+### Taiko Score Reader
+API that parses MusicXML into structured data, powering a dynamic multi-track player for music practice.
+Focus on parsing, data modeling, and real-time playback control.
+**Stack:** FastAPI, React, PostgreSQL, Docker
+
+---
+
+**Other Projects**
+
+[Finance Tracker API](https://github.com/ken-okubo/finance-tracker) — Django REST API for tracking expenses with category management and monthly summaries.
+[Invoices API](https://github.com/ken-okubo/invoices-api) — FastAPI backend for clients, routes, and invoices with JWT authentication.
+[Where Should We Eat?](https://github.com/ken-okubo/where-should-we-eat) — React + FastAPI app with roulette-style group decision making.
+
+---
+
+**Tech Stack**
+
+**Languages:** Python, JavaScript, TypeScript
+**Backend:** Django REST Framework, FastAPI, Flask, Node.js
+**Frontend:** React, TailwindCSS, Leaflet.js
+**Data:** PostgreSQL, MySQL, Athena, Metabase, SQLAlchemy, Alembic
+**Integrations:** Asaas, Mercado Pago, MelhorEnvio, GA4, Meta Pixel
+**DevOps:** Docker, Git, Redis, AWS (S3, Lambda, CloudFront), Keycloak
 **Other:** RESTful APIs, httpx, OAuth2, JWT
 
 ---
 
-**Featured Projects**
+Building new projects focused on real-world backend challenges in fintech, logistics, and automation.
 
-### [Finance Tracker API](https://github.com/ken-okubo/finance-tracker)  
-A fully dockerized Django REST API for tracking personal and business expenses.  
-Includes category management, monthly summaries, filters, fake data generation, and full documentation.  
-**Stack:** Django, DRF, PostgreSQL, Docker
-
-### [Invoices API](https://github.com/ken-okubo/invoices-api)  
-A FastAPI backend for managing clients, routes, and invoices — including authentication with JWT.  
-Built with SQLAlchemy, Alembic, and PostgreSQL, fully dockerized and documented.  
-**Stack:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, JWT
-
-### [Where Should We Eat?](https://github.com/ken-okubo/where-should-we-eat)  
-A fun and interactive React app that helps groups decide where to eat using a roulette-style spinner.  
-Includes FastAPI backend with Redis to manage temporary sessions and user-submitted options.  
-**Stack:** React, TailwindCSS, FastAPI, Redis, Docker
+Interested in building systems that connect business operations with software — especially where automation replaces manual workflows.
 
 ---
 
-🛠️ More projects coming soon — inspired by real backend work in logistics, automation, and financial systems.
-
----
-
-📫 Email: ken.okubo1@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/ken-okubo-8b484978](https://www.linkedin.com/in/ken-okubo-8b484978/)  
-📁 GitHub Projects: [github.com/ken-okubo](https://github.com/ken-okubo)
+Email: ken.okubo1@gmail.com
+LinkedIn: [linkedin.com/in/ken-okubo-8b484978](https://www.linkedin.com/in/ken-okubo-8b484978/)
+GitHub: [github.com/ken-okubo](https://github.com/ken-okubo)
