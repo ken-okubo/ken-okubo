@@ -65,6 +65,6 @@ Interested in building systems that connect business operations with software �
 
 ---
 
-Email: ken.okubo1@gmail.com
-LinkedIn: [linkedin.com/in/ken-okubo-8b484978](https://www.linkedin.com/in/ken-okubo-8b484978/)
-GitHub: [github.com/ken-okubo](https://github.com/ken-okubo)
+📫 **Email:** ken.okubo1@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/ken-okubo-8b484978](https://www.linkedin.com/in/ken-okubo-8b484978/)  
+💻 **GitHub:** [github.com/ken-okubo](https://github.com/ken-okubo)
