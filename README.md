@@ -49,12 +49,12 @@ Focus on parsing, data modeling, and real-time playback control.
 
 **Tech Stack**
 
-**Languages:** Python, JavaScript, TypeScript
-**Backend:** Django REST Framework, FastAPI, Flask, Node.js
-**Frontend:** React, TailwindCSS, Leaflet.js
-**Data:** PostgreSQL, MySQL, Athena, Metabase, SQLAlchemy, Alembic
-**Integrations:** Asaas, Mercado Pago, MelhorEnvio, GA4, Meta Pixel
-**DevOps:** Docker, Git, Redis, AWS (S3, Lambda, CloudFront), Keycloak
+**Languages:** Python, JavaScript, TypeScript  
+**Backend:** Django REST Framework, FastAPI, Flask, Node.js  
+**Frontend:** React, TailwindCSS, Leaflet.js  
+**Data:** PostgreSQL, MySQL, Athena, Metabase, SQLAlchemy, Alembic  
+**Integrations:** Asaas, Mercado Pago, MelhorEnvio, GA4, Meta Pixel  
+**DevOps:** Docker, Git, Redis, AWS (S3, Lambda, CloudFront), Keycloak  
 **Other:** RESTful APIs, httpx, OAuth2, JWT
 
 ---
